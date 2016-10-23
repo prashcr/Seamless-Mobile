@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "993175486119",
+    "firebase_url": "https://seamless-ed5fc.firebaseio.com",
+    "project_id": "seamless-ed5fc",
+    "storage_bucket": "seamless-ed5fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993175486119:android:09ef8c48b349addd",
+        "android_client_info": {
+          "package_name": "xyz.prashcr.seamless_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993175486119-ch4pbaiv9a115l439l4t4hrdi668uasu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnzImuCiAUAo7u9Pe4TpDhiybLQUpgu5E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
